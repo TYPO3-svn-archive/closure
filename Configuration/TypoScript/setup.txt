@@ -1,0 +1,13 @@
+plugin.tx_closure_plugin {
+
+	# Show exceptions (for debugging)
+	showExceptions = 0
+
+	# Configure Js Files with numeric prefix, stdWrap welcome
+	jsFiles {
+
+	}
+}
+
+# Include Closure in page header
+page.headerData.1315570503 =< plugin.tx_closure_plugin
